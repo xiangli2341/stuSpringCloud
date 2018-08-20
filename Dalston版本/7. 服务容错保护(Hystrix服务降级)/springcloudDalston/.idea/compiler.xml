@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="config-client" />
+        <module name="config-server-git" />
+        <module name="eureka-client" />
+        <module name="eureka-consumer" />
+        <module name="eureka-consumer-feign" />
+        <module name="eureka-consumer-feign-upload-client" />
+        <module name="eureka-consumer-feign-upload-server" />
+        <module name="eureka-consumer-ribbon" />
+        <module name="eureka-consumer-ribbon-hystrix" />
+        <module name="eureka-server" />
+        <module name="spring-cloud-Dalston" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
