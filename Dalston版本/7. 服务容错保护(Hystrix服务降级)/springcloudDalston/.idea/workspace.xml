@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b7831631-ebb1-491c-9915-8c99aecc1528" name="Default Changelist" comment="" />
+    <list default="true" id="d0e1aeef-3a2e-4106-ac7c-3d4b1027d24a" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/eureka-consumer-feign-upload-server/target/" />
     <ignored path="$PROJECT_DIR$/eureka-consumer/target/" />
-    <ignored path="$PROJECT_DIR$/eureka-consumer-feign/target/" />
     <ignored path="$PROJECT_DIR$/eureka-client/target/" />
-    <ignored path="$PROJECT_DIR$/eureka-consumer-ribbon-hystrix/target/" />
-    <ignored path="$PROJECT_DIR$/eureka-server/target/" />
-    <ignored path="$PROJECT_DIR$/eureka-consumer-feign-upload-client/target/" />
-    <ignored path="$PROJECT_DIR$/target/" />
-    <ignored path="$PROJECT_DIR$/eureka-consumer-ribbon/target/" />
-    <ignored path="$PROJECT_DIR$/config-client/target/" />
     <ignored path="$PROJECT_DIR$/config-server-git/target/" />
+    <ignored path="$PROJECT_DIR$/eureka-consumer-feign-upload-client/target/" />
+    <ignored path="$PROJECT_DIR$/eureka-server/target/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/config-client/target/" />
+    <ignored path="$PROJECT_DIR$/eureka-consumer-feign/target/" />
+    <ignored path="$PROJECT_DIR$/eureka-consumer-ribbon/target/" />
+    <ignored path="$PROJECT_DIR$/eureka-consumer-ribbon-hystrix/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,7 +27,115 @@
           <entry key="project.opened" value="1" />
         </counts>
       </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="1" />
+          <entry key="java" value="11" />
+          <entry key="properties" value="6" />
+          <entry key="xml" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="1" />
+          <entry key="JAVA" value="11" />
+          <entry key="Properties" value="6" />
+          <entry key="XML" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="364" />
+          <entry key="properties" value="27" />
+          <entry key="xml" value="92" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="364" />
+          <entry key="Properties" value="27" />
+          <entry key="XML" value="92" />
+        </counts>
+      </usages-collector>
     </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/eureka-consumer-ribbon-hystrix/src/main/java/com/springcloudlx/eurekaconsumerribbonhystrix/EurekaConsumerRibbonHystrixApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="20" column="53" lean-forward="true" selection-start-line="20" selection-start-column="53" selection-end-line="20" selection-end-column="53" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/eureka-consumer-ribbon-hystrix/src/main/java/com/springcloudlx/eurekaconsumerribbonhystrix/controller/DcController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="491">
+              <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#550#551#0" expanded="true" />
+                <element signature="e#599#600#0" expanded="true" />
+                <element signature="e#785#786#0" expanded="true" />
+                <element signature="e#882#883#0" expanded="true" />
+                <element signature="e#918#919#0" expanded="true" />
+                <element signature="e#958#959#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/eureka-client/src/main/java/com/springcloudlx/eurekaclient/controller/DcController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret line="14" column="52" lean-forward="true" selection-start-line="14" selection-start-column="52" selection-end-line="14" selection-end-column="52" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/eureka-client/src/main/java/com/springcloudlx/eurekaclient/EurekaClientApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/eureka-consumer-ribbon-hystrix/src/main/resources/application.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="116">
+              <caret line="4" column="45" selection-start-line="4" selection-start-column="45" selection-end-line="4" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/eureka-consumer/src/main/java/com/springcloudlx/eurekaconsumer/EurekaConsumerApplication.java" />
+        <option value="$PROJECT_DIR$/eureka-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/eureka-consumer/src/main/java/com/springcloudlx/eurekaconsumer/controller/DcController.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/eureka-consumer-ribbon/pom.xml" />
+        <option value="$PROJECT_DIR$/eureka-consumer-ribbon/src/main/java/com/springcloudlx/eurekaconsumerribbon/EurekaConsumerRibbonApplication.java" />
+        <option value="$PROJECT_DIR$/eureka-consumer-ribbon/src/main/java/com/springcloudlx/eurekaconsumerribbon/controller/DcController.java" />
+        <option value="$PROJECT_DIR$/eureka-consumer/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/eureka-consumer-ribbon/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/eureka-consumer-ribbon-hystrix/pom.xml" />
+        <option value="$PROJECT_DIR$/eureka-consumer-ribbon-hystrix/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/eureka-consumer-ribbon-hystrix/src/main/java/com/springcloudlx/eurekaconsumerribbonhystrix/EurekaConsumerRibbonHystrixApplication.java" />
+        <option value="$PROJECT_DIR$/eureka-consumer-ribbon-hystrix/src/main/java/com/springcloudlx/eurekaconsumerribbonhystrix/controller/DcController.java" />
+        <option value="$PROJECT_DIR$/eureka-client/src/main/java/com/springcloudlx/eurekaclient/controller/DcController.java" />
+      </list>
+    </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -43,19 +151,49 @@
         <option name="userSettingsFile" value="D:\Program Files\Maven\apache-maven-3.5.4-bin\apache-maven-3.5.4\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="263" />
-    <option name="y" value="143" />
+    <option name="x" value="280" />
+    <option name="y" value="65" />
     <option name="width" value="1514" />
-    <option name="height" value="886" />
+    <option name="height" value="929" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>CodeSpring CoreSpring</id>
+          </State>
+          <State>
+            <id>Spring</id>
+          </State>
+          <State>
+            <id>Spring CoreSpring</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>SpringJavaInjectionPointsAutowiringInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -63,25 +201,84 @@
               <item name="springcloud-Dalston" type="b2602c69:ProjectViewProjectNode" />
               <item name="springcloudDalston" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="springcloud-Dalston" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloudDalston" type="462c0819:PsiDirectoryNode" />
+              <item name="eureka-client" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloud-Dalston" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloudDalston" type="462c0819:PsiDirectoryNode" />
+              <item name="eureka-client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloud-Dalston" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloudDalston" type="462c0819:PsiDirectoryNode" />
+              <item name="eureka-client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloud-Dalston" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloudDalston" type="462c0819:PsiDirectoryNode" />
+              <item name="eureka-client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloud-Dalston" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloudDalston" type="462c0819:PsiDirectoryNode" />
+              <item name="eureka-client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="eurekaclient" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloud-Dalston" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloudDalston" type="462c0819:PsiDirectoryNode" />
+              <item name="eureka-client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="eurekaclient" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloud-Dalston" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloudDalston" type="462c0819:PsiDirectoryNode" />
+              <item name="eureka-server" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1534747763485" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/config-server-git" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1534816336853" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.3570595" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.springcloudlx.eurekaconsumerribbonhystrix.controller" />
+      <recent name="com.springcloudlx.eurekaconsumerribbon.controller" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="configurationTypes">
@@ -99,8 +296,56 @@
         </RuleState>
       </list>
     </option>
+    <option name="contentProportion" value="0.26858345" />
   </component>
-  <component name="RunManager" selected="Spring Boot.EurekaConsumerFeignUploadServerApplication">
+  <component name="RunManager" selected="Spring Boot.EurekaConsumerRibbonHystrixApplication">
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="eureka-consumer-feign-upload-server" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="eureka-consumer-feign-upload-server" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ConfigClientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="config-client" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.springcloudlx.configclient.ConfigClientApplication" />
@@ -136,20 +381,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EurekaConsumerFeignUploadClientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <module name="eureka-consumer-feign-upload-client" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.springcloud.eurekaconsumerfeignupload.EurekaConsumerFeignUploadClientApplication" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="EurekaConsumerFeignUploadServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <module name="eureka-consumer-feign-upload-server" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.springcloudlx.eurekaconsumerfeignuploadserver.EurekaConsumerFeignUploadServerApplication" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="EurekaConsumerRibbonApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="eureka-consumer-ribbon" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.springcloudlx.eurekaconsumerribbon.EurekaConsumerRibbonApplication" />
@@ -159,7 +390,7 @@
     </configuration>
     <configuration name="EurekaConsumerRibbonHystrixApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="eureka-consumer-ribbon-hystrix" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.springcloud.eurekaconsumerribbonhystrix.EurekaConsumerRibbonHystrixApplication" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.springcloudlx.eurekaconsumerribbonhystrix.EurekaConsumerRibbonHystrixApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -172,16 +403,14 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Spring Boot.EurekaConsumerFeignUploadServerApplication" />
       <item itemvalue="Spring Boot.EurekaConsumerApplication" />
-      <item itemvalue="Spring Boot.EurekaConsumerFeignApplication" />
       <item itemvalue="Spring Boot.EurekaClientApplication" />
-      <item itemvalue="Spring Boot.EurekaConsumerRibbonHystrixApplication" />
-      <item itemvalue="Spring Boot.EurekaServerApplication" />
-      <item itemvalue="Spring Boot.EurekaConsumerFeignUploadClientApplication" />
-      <item itemvalue="Spring Boot.EurekaConsumerRibbonApplication" />
-      <item itemvalue="Spring Boot.ConfigClientApplication" />
       <item itemvalue="Spring Boot.ConfigServerGitApplication" />
+      <item itemvalue="Spring Boot.EurekaServerApplication" />
+      <item itemvalue="Spring Boot.ConfigClientApplication" />
+      <item itemvalue="Spring Boot.EurekaConsumerFeignApplication" />
+      <item itemvalue="Spring Boot.EurekaConsumerRibbonApplication" />
+      <item itemvalue="Spring Boot.EurekaConsumerRibbonHystrixApplication" />
     </list>
   </component>
   <component name="SvnConfiguration">
@@ -189,20 +418,21 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="b7831631-ebb1-491c-9915-8c99aecc1528" name="Default Changelist" comment="" />
-      <created>1534746265212</created>
+      <changelist id="d0e1aeef-3a2e-4106-ac7c-3d4b1027d24a" name="Default Changelist" comment="" />
+      <created>1534813461274</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1534746265212</updated>
-      <workItem from="1534746268109" duration="856000" />
+      <updated>1534813461274</updated>
+      <workItem from="1534813462600" duration="2774000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="856000" />
+    <option name="totallyTimeSpent" value="2774000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="263" y="143" width="1514" height="886" extended-state="0" />
+    <frame x="93" y="80" width="1514" height="929" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Designer" />
       <window_info id="Image Layers" />
@@ -210,13 +440,14 @@
       <window_info id="Favorites" side_tool="true" />
       <window_info id="Capture Tool" />
       <window_info id="Web" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.5557084" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24965613" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Run Dashboard" visible="true" weight="0.15543328" />
+      <window_info active="true" anchor="bottom" id="Run Dashboard" visible="true" weight="0.45844156" />
       <window_info anchor="bottom" id="Spring" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Tail" />
       <window_info anchor="bottom" id="Java Enterprise" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
@@ -244,6 +475,139 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/eureka-consumer/src/main/java/com/springcloudlx/eurekaconsumer/EurekaConsumerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="15" column="7" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eureka-consumer/src/main/java/com/springcloudlx/eurekaconsumer/controller/DcController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="369">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eureka-consumer/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="17" column="6" selection-start-line="17" selection-start-column="6" selection-end-line="17" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="27" column="16" lean-forward="true" selection-start-line="27" selection-start-column="16" selection-end-line="27" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eureka-consumer-ribbon/src/main/java/com/springcloudlx/eurekaconsumerribbon/EurekaConsumerRibbonApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="17" column="41" selection-start-line="17" selection-start-column="41" selection-end-line="17" selection-end-column="41" />
+          <folding>
+            <element signature="e#394#395#0" expanded="true" />
+            <element signature="e#435#436#0" expanded="true" />
+            <element signature="e#284#285#0" expanded="true" />
+            <element signature="e#366#367#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eureka-consumer-ribbon/src/main/java/com/springcloudlx/eurekaconsumerribbon/controller/DcController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="23" column="1" lean-forward="true" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+          <folding>
+            <element signature="e#596#597#0" expanded="true" />
+            <element signature="e#663#664#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eureka-consumer/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eureka-consumer-ribbon/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="301">
+          <caret line="21" column="29" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eureka-consumer-ribbon-hystrix/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="430">
+          <caret line="34" column="52" selection-start-line="34" selection-start-column="52" selection-end-line="34" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eureka-consumer-ribbon/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/8.5.15/tomcat-embed-core-8.5.15.jar!/org/apache/coyote/http11/Http11Processor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="428" column="76" lean-forward="true" selection-start-line="428" selection-start-column="76" selection-end-line="428" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eureka-consumer-ribbon-hystrix/src/main/java/com/springcloudlx/eurekaconsumerribbonhystrix/EurekaConsumerRibbonHystrixApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="20" column="53" lean-forward="true" selection-start-line="20" selection-start-column="53" selection-end-line="20" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eureka-client/src/main/java/com/springcloudlx/eurekaclient/EurekaClientApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eureka-consumer-ribbon-hystrix/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="4" column="45" selection-start-line="4" selection-start-column="45" selection-end-line="4" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eureka-consumer-ribbon-hystrix/src/main/java/com/springcloudlx/eurekaconsumerribbonhystrix/controller/DcController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="491">
+          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#550#551#0" expanded="true" />
+            <element signature="e#599#600#0" expanded="true" />
+            <element signature="e#785#786#0" expanded="true" />
+            <element signature="e#882#883#0" expanded="true" />
+            <element signature="e#918#919#0" expanded="true" />
+            <element signature="e#958#959#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eureka-client/src/main/java/com/springcloudlx/eurekaclient/controller/DcController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="14" column="52" lean-forward="true" selection-start-line="14" selection-start-column="52" selection-end-line="14" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
   </component>
   <component name="masterDetails">
     <states>
@@ -296,11 +660,11 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>config-server-git</last-edited>
+          <last-edited>eureka-client</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.3570595" />
+                <option value="0.2" />
                 <option value="0.6" />
               </list>
             </option>

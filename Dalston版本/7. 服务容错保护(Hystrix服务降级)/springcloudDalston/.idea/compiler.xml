@@ -11,13 +11,15 @@
         <module name="eureka-client" />
         <module name="eureka-consumer" />
         <module name="eureka-consumer-feign" />
-        <module name="eureka-consumer-feign-upload-client" />
-        <module name="eureka-consumer-feign-upload-server" />
         <module name="eureka-consumer-ribbon" />
         <module name="eureka-consumer-ribbon-hystrix" />
         <module name="eureka-server" />
-        <module name="spring-cloud-Dalston" />
+        <module name="springcloud-Dalston" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="eureka-consumer-feign-upload" target="1.8" />
+      <module name="eureka-consumer-feign-upload-server" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>

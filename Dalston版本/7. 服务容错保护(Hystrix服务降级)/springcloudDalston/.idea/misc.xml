@@ -9,10 +9,15 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/eureka-client/pom.xml" />
-        <option value="$PROJECT_DIR$/config-client/pom.xml" />
-        <option value="$PROJECT_DIR$/config-server-git/pom.xml" />
+        <option value="$PROJECT_DIR$/eureka-consumer-ribbon/pom.xml" />
+        <option value="$PROJECT_DIR$/eureka-consumer-ribbon-hystrix/pom.xml" />
       </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/eureka-consumer-feign-upload-client/pom.xml" />
+        <option value="$PROJECT_DIR$/eureka-consumer-feign-upload-server/pom.xml" />
+      </set>
     </option>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">

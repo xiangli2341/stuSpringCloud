@@ -6,11 +6,19 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="config-client" />
+        <module name="config-server-git" />
         <module name="eureka-client" />
         <module name="eureka-consumer" />
+        <module name="eureka-consumer-feign" />
+        <module name="eureka-consumer-ribbon" />
         <module name="eureka-server" />
-        <module name="springcloudDalston" />
+        <module name="springcloud-Dalston" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="eureka-consumer-feign-upload" target="1.8" />
+      <module name="eureka-consumer-feign-upload-server" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>

@@ -19,11 +19,10 @@
         <module>eureka-server</module>
         <module>eureka-client</module>
         <module>eureka-consumer</module>
-        <module>eureka-consumer-feign</module>
         <module>eureka-consumer-ribbon</module>
-        <module>eureka-consumer-ribbon-hystrix</module>
-        <module>eureka-consumer-feign-upload-client</module>
-        <module>eureka-consumer-feign-upload-server</module>
+        <module>eureka-consumer-feign</module>
+        <module>config-client</module>
+        <module>config-server-git</module>
     </modules>
 
     <properties>

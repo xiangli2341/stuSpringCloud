@@ -7,12 +7,14 @@ import org.springframework.web.bind.annotation.RestController;
 
 @RestController
 public class DcController {
+
     @Autowired
     DiscoveryClient discoveryClient;
 
     @RequestMapping("/dc")
-    public String dc() throws InterruptedException {
-        Thread.sleep(5000);
+    public String dc()  {
+        /*throws InterruptedException
+        Thread.sleep(5000L);*/
         String services="Services"+discoveryClient.getServices();
         System.out.println(services);
         return services;
